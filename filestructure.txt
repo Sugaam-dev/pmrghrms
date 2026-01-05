@@ -49,6 +49,7 @@
 |-- docker
     |-- docker-compose.yml
     |-- init.sh
+|-- Dockerfile
 |-- frappe-ui
 |-- frontend
     |-- .eslintrc.js
